@@ -21,3 +21,6 @@ print(pi)
 
 my_fav_number =pi
 print(my_fav_number)
+
+my_fav_number = 42  # Define the variable 'my_fav_number'
+print(my_fav_number)  # Now this will work
